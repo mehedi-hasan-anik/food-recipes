@@ -1,4 +1,4 @@
-import { Route, Switch } from "react-router-dom";
+import { Route, Routes } from "react-router-dom";
 import Footer from "./components/Footer";
 import NavBar from "./components/NavBar";
 import Home from "./pages/Home";
@@ -11,11 +11,11 @@ function App() {
       <div>
         <NavBar />
         <div className="container main">
-          <Switch>
-            <Route exact path="/" component={Home} />
-            <Route exact path="/recipes" component={Recipes} />
-            <Route exact path="/settings" component={Settings} />
-          </Switch>
+          <Routes>
+            <Route path="/" element={<Home></Home>}></Route>
+            <Route path="/recipes" element={<Recipes></Recipes>}></Route>
+            <Route path="/settings" element={<Settings></Settings>}></Route>
+          </Routes>
         </div>
         <Footer />
       </div>

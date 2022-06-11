@@ -1,6 +1,6 @@
 import { faCog, faHome, faList } from "@fortawesome/free-solid-svg-icons";
 import { useState } from "react";
-import { useLocation } from "react-router-dom";
+import { Link, useLocation } from "react-router-dom";
 import Sidebar from "./Sidebar";
 
 const NavBar = () => {
@@ -31,18 +31,18 @@ const NavBar = () => {
   return (
     <>
       <div className="navbar container">
-        <a href="#!" className="logo">
-          f<span>oo</span>diesHub
-        </a>
+        <Link to="/" className="logo">
+          f<span>oo</span>dcorner
+        </Link>
         <div className="nav-links">
           {links?.map((item) => (
-            <a
-              href={item?.path}
+            <Link
+              to={item?.path}
               key={item?.name}
               className={location.pathname === item.path ? "active" : ""}
             >
               {item?.name}
-            </a>
+            </Link>
           ))}
         </div>
         <div

@@ -12,9 +12,9 @@ function Footer() {
       </div>
       <div className="footer-section">
         <p className="title">Contact Us</p>
-        <p>foodieshub@gmail.com</p>
-        <p>+342-5324-9454</p>
-        <p>2393 Street NYC</p>
+        <p>anikm2283@gmail.com</p>
+        <p>+8801959109322</p>
+        <p>Dhaka, Bangladesh</p>
       </div>
       <div className="footer-section">
         <p className="title">Socials</p>
