@@ -1,4 +1,3 @@
-import { faHome } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link, useLocation } from "react-router-dom";
 
@@ -17,7 +16,7 @@ const Sidebar = ({ links, close }) => {
           to={item?.path}
           key={item?.name}
         >
-          <FontAwesomeIcon icon={faHome} />
+          <FontAwesomeIcon icon={item?.icon} />
           {item?.name}
         </Link>
       ))}
