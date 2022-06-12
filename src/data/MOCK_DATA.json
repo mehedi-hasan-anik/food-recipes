@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Chicken Pan Pizza",
+    "image": "https://i.ibb.co/174SZVq/08.jpg",
+    "authorImg": "https://i.ibb.co/rwRJvKB/about-04.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  },
+  {
+    "id": 2,
+    "title": "Spaghetti and Meatballs",
+    "image": "https://i.ibb.co/NnGn7dV/07.jpg",
+    "authorImg": "https://i.ibb.co/nkj7V13/about-03.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  },
+  {
+    "id": 3,
+    "title": "American Cheese Burger",
+    "image": "https://i.ibb.co/Wz701mz/06.jpg",
+    "authorImg": "https://i.ibb.co/bHqLQdj/about-01.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  },
+  {
+    "id": 4,
+    "title": "Mutton Biriyani",
+    "image": "https://i.ibb.co/6DvYRJW/05.jpg",
+    "authorImg": "https://i.ibb.co/k4ZdQc0/about-02.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  },
+  {
+    "id": 5,
+    "title": "Japanese Sushi",
+    "image": "https://i.ibb.co/V9s2dZ2/04.jpg",
+    "authorImg": "https://i.ibb.co/rwRJvKB/about-04.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  },
+  {
+    "id": 6,
+    "title": "Chicken Pan Pizza",
+    "image": "https://i.ibb.co/smNgdQy/03.jpg",
+    "authorImg": "https://i.ibb.co/nkj7V13/about-03.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  },
+  {
+    "id": 7,
+    "title": "Spaghetti and Meatballs",
+    "image": "https://i.ibb.co/VpPhdTK/01.jpg",
+    "authorImg": "https://i.ibb.co/nkj7V13/about-03.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  },
+  {
+    "id": 8,
+    "title": "American Cheese Burger",
+    "image": "https://i.ibb.co/R9g14yz/02.jpg",
+    "authorImg": "https://i.ibb.co/rwRJvKB/about-04.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  },
+  {
+    "id": 9,
+    "title": "Mutton Biriyani",
+    "image": "https://i.ibb.co/174SZVq/08.jpg",
+    "authorImg": "https://i.ibb.co/nkj7V13/about-03.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  },
+  {
+    "id": 10,
+    "title": "Japanese Sushi",
+    "image": "https://i.ibb.co/NnGn7dV/07.jpg",
+    "authorImg": "https://i.ibb.co/rwRJvKB/about-04.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  },
+  {
+    "id": 11,
+    "title": "American Cheese Burger",
+    "image": "https://i.ibb.co/174SZVq/08.jpg",
+    "authorImg": "https://i.ibb.co/nkj7V13/about-03.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  },
+  {
+    "id": 12,
+    "title": "Mutton Biriyani",
+    "image": "https://i.ibb.co/smNgdQy/03.jpg",
+    "authorImg": "https://i.ibb.co/rwRJvKB/about-04.jpg",
+    "details": " Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ea accusamus, aliquid odio dignissimos modi quia incidunt perspiciatis inventore dolore voluptatem. Culpa nobis similique sint repellendus autem vitae fuga? Quo, assumenda."
+  }
+]

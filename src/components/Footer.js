@@ -1,4 +1,8 @@
-function Footer() {
+import { useState } from "react";
+
+const Footer = () => {
+  const [date, setDate] = useState(new Date());
+
   return (
     <div className="footer container">
       <div className="footer-section">
@@ -8,7 +12,7 @@ function Footer() {
           delicious food recepies of all cuisine. And our service is absolutely
           free.
         </p>
-        <p>&copy; 2021 | All Rights Reserved</p>
+        <p>&copy; {date?.getFullYear()} | All Rights Reserved</p>
       </div>
       <div className="footer-section">
         <p className="title">Contact Us</p>
@@ -18,12 +22,29 @@ function Footer() {
       </div>
       <div className="footer-section">
         <p className="title">Socials</p>
-        <p>Facebook</p>
-        <p>Twitter</p>
-        <p>Instagram</p>
+        <ul className="socila-media">
+          <li>
+            <a href="https://www.facebook.com/" title="facebook">
+              Facebook
+            </a>
+          </li>
+          <li>
+            <a href="https://twitter.com/i/flow/login" title="twitter">
+              Twitter
+            </a>
+          </li>
+          <li>
+            <a
+              href="https://www.instagram.com/accounts/login/"
+              title="instagram"
+            >
+              Instagram
+            </a>
+          </li>
+        </ul>
       </div>
     </div>
   );
-}
+};
 
 export default Footer;
